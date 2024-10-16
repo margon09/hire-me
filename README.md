@@ -1,11 +1,16 @@
+![image](https://github.com/user-attachments/assets/5daf9d7e-1367-4522-ad6e-86e0854e5c04)
+
 
 # Setting env variables
 
 This project uses a .env file that is not pushed to Github.
 Create a .env.local file in the route directory and add 
 the following variables with their corresponding values:
+
 REACT_APP_API_KEY=
+
 REACT_APP_GROUP_ID=
+
 REACT_APP_INSTITUTION_ID=
 
 # Getting Started with Create React App
